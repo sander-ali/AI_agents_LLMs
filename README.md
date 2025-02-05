@@ -16,6 +16,12 @@ Install all the packages that are required using pip:
 
 ```  pip install -r requirements.txt  ```
 
+In order to run the agents you need to add the Tavily API Key. In order to do that, you need to run the following code:
+
+```  export TAVILY_API_KEY = "YOUR_API_KEY"  ```
+
+The API Key will allow you 1000 credits to perform the search.
+
 You can then run your desired agent by running the following code:
 
 ``` streamlit run <agent_type>.py   ```
