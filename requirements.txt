@@ -7,3 +7,6 @@ langgraph
 selenium
 unstructured
 pdfplumber
+yfinance
+pydantic-ai
+asyncio
