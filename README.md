@@ -22,9 +22,14 @@ In order to run the agents you need to add the Tavily API Key. In order to do th
 
 The API Key will allow you 1000 credits to perform the search.
 
+For the stock analyst agent, the repository uses OPEN AI, therefore you can run the following code:
+
+```  export OPENAI_API_KEY = "YOUR_API_KEY"  ```
+
 You can then run your desired agent by running the following code:
 
 ``` streamlit run <agent_type>.py   ```
+
 
 # Agents
 
@@ -39,6 +44,10 @@ The scraper agent builds a Retrieval-Augmented Generation (RAG) system that will
 ## PDF Chat Agent
 
 The PDF Chat Agent creates a simple RAG system lets the user chat with the PDFs and answer complex questions about your local documents. The agent uses LangChain and DeepSeek. For this agent, you need to upload the PDFs in the pdfs folder.  
+
+## Stock_Analyst_Agent
+
+
 
 I will update more changes so look out for this repository.
 
