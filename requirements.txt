@@ -12,3 +12,4 @@ pydantic-ai
 asyncio
 pillow
 google-generativeai
+together
