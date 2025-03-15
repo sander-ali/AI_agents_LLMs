@@ -1,5 +1,5 @@
 # AI agents using LLMs
-The repository will let you use AI agents using deepseek and ollama.
+The repository will let you use AI agents using different LLMs.
 
 ![git_log](https://github.com/user-attachments/assets/744f36ee-7bf3-4daf-bad3-8215767b269a)
 
@@ -25,6 +25,12 @@ The API Key will allow you 1000 credits to perform the search.
 For the stock analyst agent, the repository uses OPEN AI, therefore you can run the following code:
 
 ```  export OPENAI_API_KEY = "YOUR_API_KEY"  ```
+
+For Multimodal Chatbot you have to get your Google Studio API Key
+
+Sign Up for the API Key at [Google AI Studio](https://aistudio.google.com/app/apikey)
+
+Add your API Key to the multimodal_chatbot_gemini.py line 12. 
 
 You can then run your desired agent by running the following code:
 
