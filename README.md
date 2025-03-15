@@ -1,4 +1,4 @@
-# AI agents deepseek ollama
+# AI agents using LLMs
 The repository will let you use AI agents using deepseek and ollama.
 
 ![git_log](https://github.com/user-attachments/assets/744f36ee-7bf3-4daf-bad3-8215767b269a)
