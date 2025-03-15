@@ -30,7 +30,9 @@ For Multimodal Chatbot you have to get your Google Studio API Key
 
 Sign Up for the API Key at [Google AI Studio](https://aistudio.google.com/app/apikey)
 
-Add your API Key to the multimodal_chatbot_gemini.py line 12. 
+For Agent Fusion, you have to get your Together API Key
+
+Sign Up for the API Key at [Together API](https://api.together.xyz/settings/api-keys)
 
 You can then run your desired agent by running the following code:
 
