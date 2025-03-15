@@ -10,3 +10,5 @@ pdfplumber
 yfinance
 pydantic-ai
 asyncio
+pillow
+google-generativeai
