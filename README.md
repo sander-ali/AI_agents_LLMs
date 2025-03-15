@@ -1,7 +1,7 @@
 # AI agents using LLMs
 The repository will let you use AI agents using different LLMs.
 
-![git_log](https://github.com/user-attachments/assets/744f36ee-7bf3-4daf-bad3-8215767b269a)
+![logo_SAK_15](https://github.com/user-attachments/assets/e6b86e25-8a3e-443a-965f-efff77aea8ab)
 
 
 # Pre-requisites
