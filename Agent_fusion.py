@@ -80,8 +80,7 @@ else:
 # Add some information about the app
 st.sidebar.title("About this app")
 st.sidebar.write(
-    "This app demonstrates a Mixture-of-Agents approach using multiple Language Models (LLMs) "
-    "to answer a single question."
+    "This app demonstrates a Agent Fusion strategy to use multiple Language Models (LLMs) for answering a single question."
 )
 
 st.sidebar.subheader("How it works:")
